@@ -31,6 +31,7 @@ I develop and maintain open-source Minecraft mods, porting them between older an
 | [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged-backport) | Backport |
 | [BetterWeather: Renewed](https://www.curseforge.com/minecraft/mc-mods/betterweather-renewed) | Revival |
 | [Utility Mobs: Redux](https://www.curseforge.com/minecraft/mc-mods/utility-mobs-redux) | Revival & Expansion / Modernization |
+| [Utility Mobs: Redux](https://www.curseforge.com/minecraft/mc-mods/tube-transport-system-reforged) | Revival |
 
 ---
 
@@ -40,13 +41,7 @@ I develop and maintain open-source Minecraft mods, porting them between older an
 |----------|--------|
 | Eating Animations | 🟢 Polish & Final Testing |
 | Hold My Items | 🟢 Polish & Final Testing |
-| Smooth Swapping | 🟡 Animation Polish |
-| The Undergarden | 🟡 Bug Fixing |
-| Goblin Traders | 🟡 Gameplay Parity |
-| Presence Footsteps | 🟡 Bug Fixes |
-| Modular Bosses | 🔵 Active Development |
-| Better Clouds | 🔵 Early Development |
-| Seamless Loading Screen | ⚪ Research & Prototype |
+| Modular Bosses | 🔵 Finalizing Development |
 
 ---
 
