@@ -31,7 +31,7 @@ I develop and maintain open-source Minecraft mods, porting them between older an
 | [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged-backport) | Backport |
 | [BetterWeather: Renewed](https://www.curseforge.com/minecraft/mc-mods/betterweather-renewed) | Revival |
 | [Utility Mobs: Redux](https://www.curseforge.com/minecraft/mc-mods/utility-mobs-redux) | Revival & Expansion / Modernization |
-| [Utility Mobs: Redux](https://www.curseforge.com/minecraft/mc-mods/tube-transport-system-reforged) | Revival |
+| [Tube Transport System : Reforged](https://www.curseforge.com/minecraft/mc-mods/tube-transport-system-reforged) | Revival |
 
 ---
 
