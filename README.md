@@ -39,8 +39,8 @@ I develop and maintain open-source Minecraft mods, porting them between older an
 
 | Project | Status |
 |----------|--------|
-| Eating Animations | 🟢 Polish & Final Testing |
-| Hold My Items | 🟢 Polish & Final Testing |
+| Eating Animations | 🟢 Set aside for now, will release within a few months |
+| Hold My Items | 🟢 Set aside for now, will release within a few months |
 | Modular Bosses | 🔵 Finalizing Development |
 
 ---
