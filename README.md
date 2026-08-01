@@ -5,7 +5,7 @@
 
 Specializing in high-quality backports, cross-version ports, gameplay improvements, and quality-of-life mods for Minecraft Forge.
 
-**10+ Released Projects** • **6,000+ Downloads**
+**11+ Released Projects** • **20,000+ Downloads**
 
 </div>
 
@@ -13,7 +13,7 @@ Specializing in high-quality backports, cross-version ports, gameplay improvemen
 
 # About me
 
-I develop and maintain open-source Minecraft mods, porting them between older and newer versions (mainly to 1.12.2 and 1.20.1) while preserving gameplay, compatibility, and performance. Most of my work involves backports and reviving mods that fell out of maintenance, with an emphasis on staying lightweight and compatible with the surrounding ecosystem.
+I develop and maintain open-source Minecraft mods, porting them between older and newer versions (mainly to 1.12.2 and 1.20.1) while preserving gameplay, compatibility, and performance. Most of my work involves backports and reviving mods that fell out of maintenance.
 
 ---
 
@@ -57,9 +57,9 @@ Every project aims to:
 
 # Development Workflow
 
-- Manual implementation, reverse engineering, and debugging form the core of the process
+- Manual implementation, reverse engineering, and debugging is the core of the process
 - AI tooling accelerates repetitive tasks, cross-version code translation, and debugging support
-- All code is manually reviewed, tested, and maintained before release
+- All code is manually reviewed, tested, and maintained
 
 ---
 
