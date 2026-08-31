@@ -81,6 +81,6 @@ These projects are developed as a hobby in my spare time. While I can't guarante
 ## Find My Projects
 
 [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/xyhaunter/projects)
-[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/nameisxy)
+[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/settings/profile)
 
 </div>
