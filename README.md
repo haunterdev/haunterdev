@@ -5,7 +5,7 @@
 
 Specializing in high-quality backports, cross-version ports, gameplay improvements, and quality-of-life mods for Minecraft Forge.
 
-**11+ Released Projects** • **20,000+ Downloads**
+**11+ Released Projects** • **30,000+ Downloads**
 
 </div>
 
@@ -80,7 +80,7 @@ These projects are developed as a hobby in my spare time. While I can't guarante
 
 ## Find My Projects
 
-[![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/nameisxy/projects)
+[![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/xyhaunter/projects)
 [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/nameisxy)
 
 </div>
