@@ -40,8 +40,8 @@ I develop and maintain open-source Minecraft mods, porting them between older an
 | Project | Status |
 |----------|--------|
 | Eating Animations | 🟢 Set aside for now, will release within a few months |
-| Hold My Items | 🟢 Set aside for now, will release within a few months |
-| Modular Bosses | 🔵 Finalizing Development |
+| Hold My Items | 🟢 Set aside for now, will release in the future |
+| Modular Bosses | 🔵 Set aside for now, will release in the future |
 
 ---
 
