@@ -5,7 +5,7 @@
 
 Specializing in high-quality backports, cross-version ports, gameplay improvements, and quality-of-life mods for Minecraft Forge.
 
-**11+ Released Projects** • **30,000+ Downloads**
+**12+ Released Projects** • **70,000+ Downloads**
 
 </div>
 
@@ -29,6 +29,7 @@ I develop and maintain open-source Minecraft mods, porting them between older an
 | [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-backport) | Backport |
 | [Visuality: Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged-backport) | Backport |
 | [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged-backport) | Backport |
+| [You Died (Backport)](https://www.curseforge.com/minecraft/mc-mods/you-died-backport) | Backport |
 | [BetterWeather: Renewed](https://www.curseforge.com/minecraft/mc-mods/betterweather-renewed) | Revival |
 | [Utility Mobs: Redux](https://www.curseforge.com/minecraft/mc-mods/utility-mobs-redux) | Revival & Expansion / Modernization |
 | [Tube Transport System : Reforged](https://www.curseforge.com/minecraft/mc-mods/tube-transport-system-reforged) | Revival |
@@ -39,9 +40,9 @@ I develop and maintain open-source Minecraft mods, porting them between older an
 
 | Project | Status |
 |----------|--------|
-| Eating Animations | 🟢 Set aside for now, will release in the future. |
-| Hold My Items | 🟢 Set aside for now, will release in the future. |
-| Modular Bosses | 🟢 Set aside for now, will release in the future. |
+| Eating Animations 1.12.2 | 🟢 Set aside for now, will release in the future. |
+| Hold My Items 1.12.2 | 🟢 Set aside for now, will release in the future. |
+| Modular Bosses 1.12.2 | 🟢 Set aside for now, will release in the future. |
 
 ---
 
@@ -81,6 +82,6 @@ These projects are developed as a hobby in my spare time. While I can't guarante
 ## Find My Projects
 
 [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/xyhaunter/projects)
-[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/settings/profile)
+[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/xyhaunter)
 
 </div>
