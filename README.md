@@ -1,5 +1,3 @@
-<div align="center">
-
 # About me
 
 I develop and maintain open-source Minecraft mods, porting them between older and newer versions (mainly to 1.12.2 and 1.20.1) while preserving gameplay, compatibility, and performance. Most of my work involves backports and reviving mods that fell out of maintenance.
@@ -37,17 +35,16 @@ I develop and maintain open-source Minecraft mods, porting them between older an
 
 # Development Philosophy
 
-Every project aims to:
 - Preserve the original gameplay experience
 - Improve compatibility with the surrounding mod ecosystem
 - Fix issues where appropriate without changing the original design philosophy
-- Remain lightweight and easy to integrate into existing modpacks
+- Keep projects lightweight and easy to integrate into existing modpacks
 
 ---
 
 # Development Workflow
 
-- Manual implementation, reverse engineering, and debugging is the core of the process
+- Manual implementation, reverse engineering, and debugging are the core of the process
 - AI tooling accelerates repetitive tasks, cross-version code translation, and debugging support
 - All code is manually reviewed, tested, and maintained
 
@@ -56,6 +53,7 @@ Every project aims to:
 # Maintenance
 
 I actively maintain released projects by:
+
 - Fixing reported bugs
 - Improving compatibility
 - Reviewing feature requests
