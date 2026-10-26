@@ -1,6 +1,6 @@
 # About me
 
-I develop and maintain open-source Minecraft mods, porting them between older and newer versions (mainly to 1.12.2 and 1.20.1) while preserving gameplay, compatibility, and performance. Most of my work involves backports and reviving mods that fell out of maintenance.
+I mostly develop and maintain open-source Minecraft mods, porting them between older and newer versions (mainly to 1.12.2 and 1.20.1) while preserving gameplay, compatibility, and performance. Most of my work involves backports and reviving mods that fell out of maintenance.
 
 ---
 
