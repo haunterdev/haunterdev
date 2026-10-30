@@ -20,6 +20,7 @@ I mostly develop and maintain open-source Minecraft mods, porting them between o
 | [BetterWeather: Renewed](https://www.curseforge.com/minecraft/mc-mods/betterweather-renewed) | Revival |
 | [Utility Mobs: Redux](https://www.curseforge.com/minecraft/mc-mods/utility-mobs-redux) | Revival & Expansion / Modernization |
 | [Tube Transport System : Reforged](https://www.curseforge.com/minecraft/mc-mods/tube-transport-system-reforged) | Revival |
+| [Rough Mobs 4](https://www.curseforge.com/minecraft/mc-mods/rough-mobs-4) | Revival |
 
 ---
 
